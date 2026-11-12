@@ -2,7 +2,7 @@
 
 This repository contains the raw files an introductory tutorial on Git and GitHub.
 
-The tutorial is available at the following link: [Git & GitHub Basic](https://matteo-d-m.github.io/git-tutorial/).
+The tutorial is available at the following link: [Git & GitHub Basics](https://matteo-d-m.github.io/git-tutorial/).
 
 The target audience are absolute beginners that want to get started with version control to serve basic scientific purposes.
 
