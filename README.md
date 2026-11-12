@@ -1,20 +1,8 @@
-# Git & GitHub Basic
-## A Beginner's Guide to Version Control
+# Git & GitHub Basics: A Beginner's Guide to Version Control
 
 This repository contains an introductory tutorial for the version control system Git and its companion web service GitHub. 
 
 The target audience are absolute beginners that want to get started with version control to serve basic scientific purposes.
-
-<!-- ## ::open_file_folder:: Repository structure
-
-```bash
-git-tutorial/
-├── files/                     # supplementary files for the tutorial (e.g., images and videos)
-├── LICENSE                    # a copy of the license that applies to this repository
-├── README.md                  # the file you are reading, the information you need
-├── file.txt                   # a dummy file used in the tutorial 
-└── tutorial.md                # the actual tutorial
-``` -->
 
 The tutorial consists of a single Markdown file, which is `tutorial.md`. The text in that file is enriched with images and video stored in `files/`. 
 
