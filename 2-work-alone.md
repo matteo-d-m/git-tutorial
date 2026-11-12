@@ -4,7 +4,9 @@ A deep understanding of Git and GitHub can require months of training, but one h
 The next sections will describe all 5 concepts in detail, providing relevant code examples for each one.
 
 > [!NOTE]
-> Most code examples come with a corresponding video that shows them in action. The videos were recorded from a Linux terminal, so they might look different from what you would see on a Windows or a Mac machine. However, the differences are only aesthetic and all concepts apply equally to any operating system. 
+> Most code examples come with a corresponding video that shows them in action. The videos were recorded from a Linux terminal, so they might look different from what you would see on a Windows or a Mac machine. However, the differences are only aesthetic and all concepts apply equally to any operating system.
+>
+> Videos are expected to play in a loop, like GIFs. If they don't, it is probably because your browser's setting are blocking anything that reproduces automatically. To solve this, change your Autoplay settings.
 
 ## 1. Repository
 In version control jargon, a repository is a directory (that is, a folder) whose contents are within the scope of a VCS. If you think of the VCS as a person that looks at a scene, you can think of a repository as any object that falls within the person's visual field and as such, can be touched and manipulated by the person. Similarly, a repository falls within the "visual field" of the VCS, which can thus operate on it. 
