@@ -1,0 +1,4 @@
+# Conclusion
+Using a version control system like Git allows anyone who writes code to keep a history of their work, with a timestamp, a unique identifier and a verbal description for all its different versions. This eliminates the need to keep one file for each version and a separate logbook to track them all, thus simplifying data analysis workflows and making them more reproducible. 
+
+Achieving full mastery of version control systems can require months of training, but beginners can be greatly empowered by the handful of concepts described in this introductory tutorial. Interested readers can refer to the official [Git](https://git-scm.com/book/en/v2) and [GitHub](https://docs.github.com/) documentations to expand their knowledge beyond the basics. For the others, the contents of this website should be enough to start practicing version control and enjoy the possibilities it offers.

@@ -1,0 +1,23 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: cb72ae3a-cc4f-4ac9-868a-3d124461c7d2
+  toc:
+    - file: 0.0-intro.md
+    - file: 0.1-getting-started.md
+    - file: 1-why-git.md
+    - file: 2-work-alone.md
+    - file: 3-work-together.md
+    - file: 4-conclusions.md
+    - file: 5-contacts.md
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  # github:
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  options:
+    favicon: files/logo.png
+    logo: files/logo.png
