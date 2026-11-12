@@ -4,8 +4,6 @@ This repository contains an introductory tutorial for the version control system
 
 The target audience are absolute beginners that want to get started with version control to serve basic scientific purposes.
 
-The tutorial consists of a single Markdown file, which is `tutorial.md`. The text in that file is enriched with images and video stored in `files/`. 
-
 ## :exclamation: Requirements
 
 To follow along the tutorial and start doing version control, users will need a Git installation and a GitHub account. 
