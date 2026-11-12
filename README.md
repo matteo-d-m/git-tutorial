@@ -1,6 +1,8 @@
 # Git & GitHub Basics: A Beginner's Guide to Version Control
 
-This repository contains an introductory tutorial for the version control system Git and its companion web service GitHub. 
+This repository contains the raw files an introductory tutorial on Git and GitHub.
+
+The tutorial is available at the following link: [Git & GitHub Basic](https://matteo-d-m.github.io/git-tutorial/).
 
 The target audience are absolute beginners that want to get started with version control to serve basic scientific purposes.
 
