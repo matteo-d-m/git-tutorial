@@ -1,6 +1,6 @@
 # Git & GitHub Basics: A Beginner's Guide to Version Control
 
-This repository contains the raw files an introductory tutorial on Git and GitHub.
+This repository contains the raw files for an introductory tutorial on Git and GitHub.
 
 The tutorial is available at the following link: [Git & GitHub Basics](https://matteo-d-m.github.io/git-tutorial/).
 
