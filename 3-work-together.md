@@ -1,6 +1,6 @@
-# Basic Collaborative Workflows
+# Chapter 3: Basic Collaborative Workflows
 
-## Forks
+## 3.1. Forks
 The workflow described thus far depicts a scenario where you first create a local repository, and then couple it with a remote. This assumes that you are starting a project from scratch and you want to have a remote back-up or to share it with other people. 
 
 A different, but equally common scenario is that you work on a project that has been started and published by someone else. For example you might jump in on a project started by a colleague, have your own copy of the materials for a hands-on activity, or contribute to a Python library. In these cases, you should start by _forking_ the GitHub repository of interest. 
@@ -11,7 +11,7 @@ The video below demonstrates forking MNE's GitHub repository into my own user ac
 
 ![Forking a GitHub remote](./files/github-fork.mp4)
 
-## Clones
+## 3.2. Clones
 Creating a fork on GitHub is not enough to start working on it: to do so, you need to pair it with a local. 
 
 To pair any existing remote (including a fork) with a new local you need to _clone_ it. Cloning a remote creates a local copy of it, downloading all the files of the repository and their version histories to your computer. 
@@ -28,7 +28,7 @@ The following video demonstrates cloning MNE-Python's GitHub repository into a l
 > [!NOTE]
 > If you clone a repository that contains something that can be installed (like MNE-Python), you are not actually performing the > installation: you are merely creating a local copy of the installable code 
 
-## Syncing Forks and Pull Requests
+## 3.3. Syncing Forks and Pull Requests
 By default, any change applied to the upstream does not affect its forks. However, GitHub constantly keeps track of all the changes made to the upstream and its forks, compares their version histories to see if they align, and warns users if they do not. For example, changes in the upstream are signalled  by a message that appears on top of any fork and says `This branch is <number> commits behind <name of the upstream>`. This is shown in the screenshot below, where my fork of MNE-Python is 1 commit behind of upstream `mne-tools/mne-python:main` (that is, the `main` branch of repository `mne-python` by user `mne-tools`):
 
 ![sync-fork](./files/github-sync-fork.png)

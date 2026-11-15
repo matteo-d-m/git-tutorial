@@ -1,4 +1,4 @@
-# What is Git, and Why Use It?
+# Chapter 1: What is Git, and Why Use It?
 Scientific data analysis can be complex, especially for people that divide their time between different projects. The _conceptual_ complexity of the scientific task adds to the _technical_ complexity of implementing it in a given programming language, which in turn implies preparing and using some computing set-up. If you multiply this complexity for all the projects that you might work on at a given time, things can get out of hand quickly.  
 
 Beside being complex, scientific data analysis tends to be _iterative_ &mdash; that is, it unfolds over a sequence of steps where you continuously try and fail new approaches, progressively adding useful features and removing useless ones from your code. 
@@ -19,12 +19,14 @@ While they can be effective for projects that are small and short, logbooks and 
 
 The alternative to logbooks and multiplication is to work on a single file and keep track of its different versions in-place using a standardised system like Git:
 
-> [!IMPORTANT]
-> Git is a version control system (VCS) &mdash; that is, a software to keep track of the modifications made to other software.
+:::{note} Definition: Git
+Git is a version control system (VCS) &mdash; that is, a software to keep track of the modifications made to other software.
+:::
 
 The name Git is often found in conjunction with GitHub. But, what is GitHub?
 
-> [!IMPORTANT]
-> GitHub is two things:
-> 1. A web service that relies on Git to allow multiple users to collaborate on one project while keeping track of everyone's actions
-> 2. A platform for sharing code and the associated version history with the general public
+:::{note} Definition: GitHub
+GitHub is two things:
+1. A web service that relies on Git to allow multiple users to collaborate on one project while keeping track of everyone's actions
+2. A platform for sharing code and the associated version history with the general public
+:::
