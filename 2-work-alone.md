@@ -23,7 +23,7 @@ The video below shows the code in action:
 ![Initialize a Git Repository](./files/git-init.mp4)
 
 ## 2.2. Tracking
-Transforming a directory into a repository does not imply that the VCS will keep track of all its contents: while it can see all the files in the repository, the VCS does not necessarily watch all all of them to record their modifications. In fact, the system only watches the files that have been explicitly added to a tracking list by the owner of the repository. 
+Transforming a directory into a repository does not imply that the VCS will keep track of all its contents: while it can see all the files in the repository, the VCS does not necessarily watch all of them to record their modifications. In fact, the system only watches the files that have been explicitly added to a tracking list by the owner of the repository. 
 
 To know which files are subject to tracking at any given time, you can use the command `git status` from within your repository. This will print a list of all the files in the directory (including subdirectories), specifying which ones are being tracked and which are not. 
 
@@ -105,7 +105,7 @@ If you navigate to any public repository on GitHub (for example, [this one](http
 
 ![repo-panel-whole](./files/image.png)
 
-This panel shows a list of the repository's contents (on the left), each one with the latest commit message (in the center) and the date they were last pushed to the remote (on the right): for example, file `pipeline_debriefing.ipynb` (the last one in the list) was last committed with a message that said `polish pipeline_debriefing.ipynb`, indicating that the last modification applied to the file was a mere polishing (that is, honing minor flaws). Such last modification was pushed to the remote 5 days ago (at the time of writing). 
+This panel shows a list of the repository's contents (on the left), each one with the latest commit message (in the center) and the date they were last pushed to the remote (on the right): for example, file `pipeline_debriefing.ipynb` (the last one in the list) was last committed with a message that said `polish pipeline_debriefing.ipynb`, indicating that the last modification applied to the file was a mere polishing (that is, correcting minor flaws). Such last modification was pushed to the remote 5 days ago (at the time of writing). 
 
 Beside the list of files with the latest commits and push times, the panel contains two other important pieces of information, both located in the upper strip: 
 

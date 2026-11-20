@@ -1,9 +1,13 @@
 # Chapter 1: What is Git, and Why Use It?
 Scientific data analysis can be complex, especially for people that divide their time between different projects. The _conceptual_ complexity of the scientific task adds to the _technical_ complexity of implementing it in a given programming language, which in turn implies preparing and using some computing set-up. If you multiply this complexity for all the projects that you might work on at a given time, things can get out of hand quickly.  
 
-Beside being complex, scientific data analysis tends to be _iterative_ &mdash; that is, it unfolds over a sequence of steps where you continuously try and fail new approaches, progressively adding useful features and removing useless ones from your code. 
+Beside being complex, scientific data analysis tends to be _iterative_, meaning that it unfolds over a sequence of steps where you continuously try and fail new approaches, progressively adding useful features and removing useless ones from your code. 
 
 One way to handle this complexity is to keep changes explainable and tracked &mdash; that is, to create and use a method that can help users find their way across the data analysis process. 
+
+:::{note} Definition: Directory
+The following text will repeatedly use the word _directory_, which is a technical way to call a folder
+:::
 
 Traditionally, people have pursued explainability with _logbooks_ and _multiplication_: 
 
